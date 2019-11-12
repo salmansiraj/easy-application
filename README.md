@@ -61,7 +61,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Busbud](https://www.busbud.com/en/careers) | Montreal, Quebec |
 | [BuzzFeed](https://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
 | [Canary](https://canary.is/careers/) | New York, NY |
-| [Capsule](https://www.capsulecares.com/about/) | New York, NY |
+| [Capsule](https://www.capsulecares.com/about/) | New York, NY | -> APPLIED
 | [Captain401](https://captain401.com/careers) | San Francisco, CA |
 | [Carbon](https://jobs.lever.co/carbon/) | Redwood City, CA |
 | [Carousell](https://boards.greenhouse.io/carousell) | Singapore |
